@@ -1,0 +1,22 @@
+{
+  "access-control-allow-credentials": "true",
+  "access-control-allow-headers": "X-Requested-With",
+  "access-control-allow-methods": "GET, POST",
+  "access-control-allow-origin": "*",
+  "cache-control": "no-store, no-cache, must-revalidate, max-age=2592000, private, must-revalidate",
+  "content-type": "application/json",
+  "date": "Thu, 24 Nov 2022 11:57:23 GMT",
+  "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+  "pragma": "no-cache",
+  "server": "RapidAPI-1.2.8",
+  "strict-transport-security": "max-age=31536000",
+  "vary": "Accept-Encoding",
+  "x-cache": "HIT from Backend",
+  "x-content-type-options": "nosniff",
+  "x-rapidapi-region": "AWS - ap-southeast-1",
+  "x-rapidapi-version": "1.2.8",
+  "x-ratelimit-requests-limit": "100",
+  "x-ratelimit-requests-remaining": "99",
+  "x-ratelimit-requests-reset": "2591986",
+  "x-xss-protection": "1; mode=block"
+}
